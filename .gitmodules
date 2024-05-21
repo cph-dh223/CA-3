@@ -1,0 +1,6 @@
+[submodule "CA-3-Frontend"]
+	path = CA-3-Frontend
+	url = https://github.com/cph-dh223/CA-3-Frontend
+[submodule "CA-3-Backend"]
+	path = CA-3-Backend
+	url = https://github.com/cph-dh223/CA-3-Backend
