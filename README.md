@@ -3,5 +3,8 @@
 #### update all submudules
 git pull --recurse-submodules
 
-#### api documentation
-[API](CA-3-Backend/README.md)
+## Submudules
+[Backend API](CA-3-Backend/README.md)
+[Frontend](CA-3-Frontend/README.md)
+
+
